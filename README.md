@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align='center'>$\mathbb{\color{yellow}{HELLO}}$</h1>
+<h3>My Name is: $\mathbb{\color{blue}{Danny Munoz}}$</h3>
+<h3>I focus in: $\mathbb{\color{yellow}{JS},\color{orange}{HTML}, \color{blue}{CSS}, \color{yellow}{FIREBASE}, \color{cyan}{REACT}}$</h3>
+<img src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/code.png" />
+<h1 align='right'> $\mathbb{\color{blue}{Contact}\ \color{yellow}{Me}}$ &nbsp; &nbsp;</h1>
 
 <!--
 **DonnyMz/DonnyMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
