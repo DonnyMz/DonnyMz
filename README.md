@@ -3,6 +3,7 @@
 <h3>I focus in: $\mathbb{\color{yellow}{JS},\color{orange}{HTML}, \color{blue}{CSS}, \color{yellow}{FIREBASE}, \color{cyan}{REACT}}$</h3>
 <img src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/code.png" />
 <h1 align='right'> $\mathbb{\color{blue}{Contact}\ \color{yellow}{Me}}$ &nbsp; &nbsp;</h1>
+<h2 align='right'> $\mathbb{\color{white}{Email: }\ \color{yellow}{kosmofly@gmail.com}}$ &nbsp; &nbsp;</h2>
 
 <!--
 **DonnyMz/DonnyMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
