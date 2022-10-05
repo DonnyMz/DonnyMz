@@ -6,7 +6,7 @@
 <h2 align='right'> $\mathbb{\color{white}{Email: }\ \color{white}{kosmofly@gmail.com}}$ &nbsp; &nbsp;</h2>
 <section>
 <picture >
-  <a href='linkedin.com/in/danny-munoz-reyes-074956231' >
+  <a href='https://www.linkedin.com/in/danny-munoz-reyes-074956231' >
   <img alt="Shows an illustrated social link to my Twitter account" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/linkedin.svg" width="50" height="50" align='right'> 
   </a>
 </picture>
