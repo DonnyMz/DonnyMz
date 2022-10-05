@@ -4,6 +4,18 @@
 <img src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/code.png" />
 <h1 align='right'> $\mathbb{\color{blue}{Contact}\ \color{yellow}{Me}}$ &nbsp; &nbsp;</h1>
 <h2 align='right'> $\mathbb{\color{white}{Email: }\ \color{white}{kosmofly@gmail.com}}$ &nbsp; &nbsp;</h2>
+<section>
+<picture >
+  <a href='https://twitter.com/DoniMunoz' target="_blank" rel="noopener noreferrer">
+  <img alt="Shows an illustrated social link to my Twitter account" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/twitter.svg" width="50" height="50" align='right'> 
+  </a>
+</picture>
+  <picture >
+  <a href='https://www.youtube.com/channel/UCf3hvpcVYeOtNOOAafeTRrA' target="_blank" rel="noopener noreferrer">
+  <img alt="Shows an illustrated social link to my Youtube channel" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/youtube.svg" width="50" height="50" align='right'> 
+  </a>
+</picture>
+  </section>
 
 <!--
 **DonnyMz/DonnyMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
