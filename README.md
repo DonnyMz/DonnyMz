@@ -6,12 +6,18 @@
 <h2 align='right'> $\mathbb{\color{white}{Email: }\ \color{white}{kosmofly@gmail.com}}$ &nbsp; &nbsp;</h2>
 <section>
 <picture >
-  <a href='https://twitter.com/DoniMunoz' target="_blank" rel="noopener noreferrer">
+  <a href='linkedin.com/in/danny-munoz-reyes-074956231' >
+  <img alt="Shows an illustrated social link to my Twitter account" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/linkedin.svg" width="50" height="50" align='right'> 
+  </a>
+</picture>
+  <section>
+<picture >
+  <a href='https://twitter.com/DoniMunoz'>
   <img alt="Shows an illustrated social link to my Twitter account" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/twitter.svg" width="50" height="50" align='right'> 
   </a>
 </picture>
   <picture >
-  <a href='https://www.youtube.com/channel/UCf3hvpcVYeOtNOOAafeTRrA' target="_blank" rel="noopener noreferrer">
+  <a href='https://www.youtube.com/channel/UCf3hvpcVYeOtNOOAafeTRrA'>
   <img alt="Shows an illustrated social link to my Youtube channel" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/youtube.svg" width="50" height="50" align='right'> 
   </a>
 </picture>
