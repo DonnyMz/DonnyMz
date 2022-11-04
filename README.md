@@ -22,7 +22,9 @@
   </a>
 </picture>
   </section>
-
+  
+  - 🔭 I’m currently working on a React app for a English Teacher
+- 🌱 I’m currently learning AWS 😅
 <!--
 **DonnyMz/DonnyMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
