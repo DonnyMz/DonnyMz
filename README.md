@@ -3,7 +3,7 @@
 <h3>I focus in: $\text{\color{yellow}{JS},\color{orange}{HTML}, \color{blue}{CSS}, \color{yellow}{FIREBASE}, \color{cyan}{REACT}}$</h3>
 <img src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/code.png" />
 <h1 align='center'>Contact Me</h1>
-<h2 align='right'> $\mathbb{\color{white}{Email: }\ }$ $\text{kosmofly@gmail.com}$ &nbsp; &nbsp;</h2>
+<h2 align='right'> $\mathbb{\color{white}{Email: }\ }$ $\text{d2mreyes@gmail.com}$ &nbsp; &nbsp;</h2>
 <section>
 <picture >
   <a href='https://www.linkedin.com/in/danny-munoz-reyes-074956231' >
@@ -17,7 +17,7 @@
   </a>
 </picture>
   <picture >
-  <a href='https://www.youtube.com/channel/UCf3hvpcVYeOtNOOAafeTRrA'>
+  <a href=''>
   <img alt="Shows an illustrated social link to my Youtube channel" src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/youtube.svg" width="50" height="50" align='right'> 
   </a>
 </picture>
