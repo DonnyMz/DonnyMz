@@ -1,6 +1,6 @@
 <h1 align='center'>$\mathbb{\color{blue}{HELLO}}$</h1>
 <h3>My Name is: $\text{\color{blue}{Danny Munoz}}$</h3>
-<h3>I focus in: $\text{\color{yellow}{JS},\color{orange}{HTML}, \color{blue}{CSS}, \color{cyan}{REACT}}$</h3>
+<h3>I focus in: $\text{\color{blue}{JS},\color{blue}{HTML}, \color{blue}{CSS}, \color{blue}{REACT}}$</h3>
 <img src="https://github.com/DonnyMz/DonnyMz/blob/main/githubImages/code.png" />
 
 <section>
